@@ -57,7 +57,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            IHi, I'm Miraz! I'm an 18-year-old gay person, and I believe in living life authentically and embracing who I am. My journey as a gay individual has been filled with self-discovery, self-acceptance, and the support of amazing friends and allies. I'm passionate about promoting diversity, inclusion, and equal rights for all. In my free time, I enjoy connecting with the LGBTQ+ community, exploring new hobbies, and making meaningful connections with people who share similar experiences. My hope is to continue spreading love, understanding, and positivity in the world, as we work toward a more inclusive and accepting society
+            Hi, I'm Miraz! I'm an 18-year-old gay person, and I believe in living life authentically and embracing who I am. My journey as a gay individual has been filled with self-discovery, self-acceptance, and the support of amazing friends and allies. I'm passionate about promoting diversity, inclusion, and equal rights for all. In my free time, I enjoy connecting with the LGBTQ+ community, exploring new hobbies, and making meaningful connections with people who share similar experiences. My hope is to continue spreading love, understanding, and positivity in the world, as we work toward a more inclusive and accepting society
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton

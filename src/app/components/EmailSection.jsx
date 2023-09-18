@@ -17,9 +17,7 @@ const EmailSection = () => {
         </h5>
         <p className="text-[#ADB7BE] mb-4 max-w-md">
           {" "}
-          I&apos;m currently looking for new opportunities, my inbox is always
-          open. Whether you have a question or just want to say hi, I&apos;ll
-          try my best to get back to you!
+          I&apos;m currently looking for new buyers, my inbox is always open. If you want to hire me, say hi, I will try my best to make you happy!
         </p>
         <div className="socials flex flex-row gap-2">
           <Link href="https://www.facebook.com/mirazXmemes">
@@ -44,7 +42,7 @@ const EmailSection = () => {
               id="email"
               required
               className="bg-[#18191E] border border-[#33353F] placeholder-[#9CA2A9] text-gray-100 text-sm rounded-lg block w-full p-2.5"
-              placeholder="jacob@google.com"
+              placeholder="name@domain.com"
             />
           </div>
           <div className="mb-6">
