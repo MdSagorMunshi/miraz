@@ -14,6 +14,9 @@ const TAB_DATA = [
         <li>Legs in the air</li>
         <li>Cowgirl</li>
         <li>Oral</li>
+        <li>Suck</li>
+        <li>Blowjob</li>
+        <li>Creampie</li>
         <li>Lotus</li>
       </ul>
     ),
