@@ -20,10 +20,10 @@ const EmailSection = () => {
           I&apos;m currently looking for new buyers, my inbox is always open. If you want to hire me, say hi, I will try my best to make you happy!
         </p>
         <div className="socials flex flex-row gap-2">
-          <Link href="https://www.facebook.com/mirazXmemes">
+          <Link href="https://www.facebook.com/100055416367079">
             <Image src={GithubIcon} alt="Github Icon" />
           </Link>
-          <Link href="https://t.me/ahmedmiraz007">
+          <Link href="https://t.me/mrmiraz69">
             <Image src={LinkedinIcon} alt="Linkedin Icon" />
           </Link>
         </div>
